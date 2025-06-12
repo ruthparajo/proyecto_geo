@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Mark Zornes</origin>
+        <origin>Philip Damm</origin>
+        <origin>Hall Sawyer</origin>
+        <pubdate>20201109</pubdate>
+        <title>Wyoming Game and Fish Department stopovers of mule deer in the Baggs Herd, Wyoming</title>
+        <edition>Version 1.0</edition>
+        <geoform>vector digital data</geoform>
+        <onlink>https://doi.org/10.5066/P9O2YM6I</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Matthew Kauffman</origin>
+            <origin>Holly Copeland</origin>
+            <origin>Jodi Berg</origin>
+            <origin>Scott Bergen</origin>
+            <origin>Eric K. Cole</origin>
+            <origin>Matthew Cuzzocreo</origin>
+            <origin>Sarah Dewey</origin>
+            <origin>Julien Fattebert</origin>
+            <origin>Jeff Gagnon</origin>
+            <origin>Emily Gelzer</origin>
+            <origin>Chris Geremia</origin>
+            <origin>Tabitha Graves</origin>
+            <origin>Kent Hersey</origin>
+            <origin>Mark Hurley</origin>
+            <origin>Rusty Kaiser</origin>
+            <origin>James Meacham</origin>
+            <origin>Jerod Merkle</origin>
+            <origin>Arthur Middleton</origin>
+            <origin>Tristan Nunez</origin>
+            <origin>Brendan Oates</origin>
+            <origin>Daniel Olson</origin>
+            <origin>Lucas Olson</origin>
+            <origin>Hall Sawyer</origin>
+            <origin>Cody Schroeder</origin>
+            <origin>Scott Sprague</origin>
+            <origin>Alethea Steingisser</origin>
+            <origin>Mark Thonhoff</origin>
+            <pubdate>20201001</pubdate>
+            <title>Ungulate Migrations of the Western United States</title>
+            <geoform>publication</geoform>
+            <onlink>https://doi.org/10.3133/sir20205101</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Baggs Mule Deer Corridor was officially designated by the Wyoming Game and Fish Department (WGFD) in 2018 (fig. 24). The Baggs Herd is managed for approximately 19,000 animals, and the corridor is based on two wintering deer populations: a northern and southern segment. Animals in the north segment occupy a relatively small winter range along a pinyon-juniper ridge that runs along the east side of Highway 789. From there, deer migrate north and west to summer ranges on Atlantic Rim, the Sand Hills, and the head of Savery Creek. The southern segment occupies a larger sagebrush winter range on both sides of Highway 789, some of which extends into Colorado. These animals migrate north and west to summer ranges in and around the Sierra Madre.</abstract>
+      <purpose>Across the western United States, many ungulate herds must migrate seasonally to access resources and avoid harsh winter conditions. Because these corridors traverse vast landscapes (i.e., up to 150 miles), they are increasingly threatened by roads, fencing, subdivisions and other development. Over the last decade, many new tracking studies have been conducted on migratory herds, and analytical methods have been developed that allow for population-level corridors and stopovers to be mapped and prioritized. In 2018, the U.S. Geological Survey assembled a Corridor Mapping Team to provide technical assistance to western states working to map bison, elk, moose, mule deer, and pronghorn corridors using existing GPS data. Based out of the Wyoming Cooperative Fish and Wildlife Research Unit, the team consists of federal scientists, university researchers, and biologists and analysts from participating state agencies. In its first year, the team has worked to develop a standardized analytical and computational methods and a workflow applicable to data sets typically collected by state agencies. In 2019, the team completed analyses necessary to map corridors, stopovers, and winter ranges in Arizona, Idaho, Nevada, Utah, and Wyoming. A total of 26 corridors, 16 migration routes, 25 stopovers, and 9 winter ranges, were mapped across these states and are included in this project. The Ungulate Migrations of the Western United States report and associated map archive provides the means for corridors to be taken into account by state and federal transportation officials, land and wildlife managers, planners, and other conservationists working to maintain big game corridors in the western states.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20050101</begdate>
+          <enddate>20170101</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-108.0496</westbc>
+        <eastbc>-106.9864</eastbc>
+        <northbc>41.6614</northbc>
+        <southbc>40.9901</southbc>
+      </bounding>
+      <descgeog>Baggs, Wyoming</descgeog>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+        <themekey>economy</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>migration (organisms)</themekey>
+        <themekey>migratory species</themekey>
+        <themekey>animal behavior</themekey>
+        <themekey>migration corridors</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5f8db65282ce32418791d57e</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>Baggs</placekey>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None. Please see 'Distribution Info' for details.</accconst>
+    <useconst>Users are required to properly attribute this dataset.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Wyoming Game and Fish Department</cntorg>
+          <cntper>Mark Zornes</cntper>
+        </cntorgp>
+        <cntpos>WIldlife Management Coordinator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>351 Astle Drive</address>
+          <city>Green River</city>
+          <state>Wyoming</state>
+          <postal>82935</postal>
+        </cntaddr>
+        <cntvoice>307-875-3223</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <crossref>
+      <citeinfo>
+        <origin>Hall Sawyer</origin>
+        <origin>Matthew J. Kauffman</origin>
+        <origin>Ryan M. Nielson</origin>
+        <origin>Jon S. Horne</origin>
+        <pubdate>200912</pubdate>
+        <title>Identifying and prioritizing ungulate migration routes for landscape-level conservation</title>
+        <geoform>publication</geoform>
+        <serinfo>
+          <sername>Ecological Applications</sername>
+          <issue>vol. 19, issue 8</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>n/a</pubplace>
+          <publish>Wiley</publish>
+        </pubinfo>
+        <othercit>ppg. 2016-2025</othercit>
+        <onlink>https://doi.org/10.1890/08-2034.1</onlink>
+      </citeinfo>
+    </crossref>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>mule deer</taxonkey>
+      </keywtax>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Tetrapoda</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Mammalia</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Subclass</taxonrn>
+                        <taxonrv>Theria</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Infraclass</taxonrn>
+                          <taxonrv>Eutheria</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Order</taxonrn>
+                            <taxonrv>Artiodactyla</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Cervidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Capreolinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Odocoileus</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Odocoileus hemionus</taxonrv>
+                                    <common>TSN: 180698</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>We checked to ensure values were in expected ranges (e.g. locations of corridors were as expected, and dates of GPS observations were consistent with the project time period), completeness, and there were no errors of omission.</attraccr>
+    </attracc>
+    <logic>We checked to ensure values were in expected ranges and locations (e.g. locations of corridors were as expected, and dates of GPS observations were consistent with the project time period).</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>We checked to ensure there were no locations outside of the expected regions.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>We checked to ensure there were no locations outside of the expected regions.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>We applied a three-step process to calculate population-level corridors, which generally followed the approach outlined by Sawyer et al. (2009). First, we averaged the utilization distribution (UD) for a given individual’s spring and fall migration sequences across all years to produce a single, individual-level migration UD. We rescaled this averaged UD to sum to one. We then defined a migration footprint for each individual as the 99% isopleth of this UD. We stacked up all the individual footprints for a given population, and defined different levels of corridor use based on the number of individuals using a given pixel. We defined low-use corridors as areas traversed by ≥1 individual during migration, medium-use corridors were used by ≥10% of individuals within the population, and high-use corridors were used by ≥20% individuals within the population. We then converted these corridors from a raster format to a polygon/vector format and removed polygons of less than 20,000 m2 (i.e., less than approximately 5 acres), which can represent spatially isolated use by just a single animal and do not meet the definition of a corridor.</procdesc>
+        <procdate>20200518</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>G-polygon</sdtstype>
+        <ptvctcnt>124</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.5</stdparll>
+            <stdparll>45.5</stdparll>
+            <longcm>-96.0</longcm>
+            <latprjo>23.0</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.6096</absres>
+            <ordres>0.6096</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North_American_Datum_1983</horizdn>
+        <ellips>GRS_1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>BaggsMuleDeerMigrationCorridorStopovers_Ver2_WGFD2018.shp Attribute Table</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Leng</attrlabl>
+        <attrdef>Calculated Shape Length (m)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>630.076828129</rdommin>
+            <rdommax>114772.52144</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Area</attrlabl>
+        <attrdef>Calculated area (m^2)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>22480.7383126</rdommin>
+            <rdommax>82764088.0906</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SqMiles</attrlabl>
+        <attrdef>Calculated area in square miles</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.00867982686873</rdommin>
+            <rdommax>31.9552652401</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9O2YM6I</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>none</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20201109</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Wyoming Game and Fish Department</cntorg>
+          <cntper>Mark Zornes</cntper>
+        </cntorgp>
+        <cntpos>WIldlife Management Coordinator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>351 Astle Drive</address>
+          <city>Green River</city>
+          <state>Wyoming</state>
+          <postal>82935</postal>
+        </cntaddr>
+        <cntvoice>307-875-3223</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>

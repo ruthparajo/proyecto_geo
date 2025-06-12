@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Doug McWhirter</origin>
+        <origin>Matthew Kauffman</origin>
+        <pubdate>20201109</pubdate>
+        <title>Migration Routes of Moose in the Jackson Herd in Wyoming</title>
+        <edition>1.0</edition>
+        <geoform>vector digital data</geoform>
+        <onlink>https://doi.org/10.5066/P9O2YM6I</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Matthew Kauffman</origin>
+            <origin>Holly Copeland</origin>
+            <origin>Jodi Berg</origin>
+            <origin>Scott Bergen</origin>
+            <origin>Eric K. Cole</origin>
+            <origin>Matthew Cuzzocreo</origin>
+            <origin>Sarah Dewey</origin>
+            <origin>Julien Fattebert</origin>
+            <origin>Jeff Gagnon</origin>
+            <origin>Emily Gelzer</origin>
+            <origin>Chris Geremia</origin>
+            <origin>Tabitha Graves</origin>
+            <origin>Kent Hersey</origin>
+            <origin>Mark Hurley</origin>
+            <origin>Rusty Kaiser</origin>
+            <origin>James Meacham</origin>
+            <origin>Jerod Merkle</origin>
+            <origin>Arthur Middleton</origin>
+            <origin>Tristan Nunez</origin>
+            <origin>Brendan Oates</origin>
+            <origin>Daniel Olson</origin>
+            <origin>Lucas Olson</origin>
+            <origin>Hall Sawyer</origin>
+            <origin>Cody Schroeder</origin>
+            <origin>Scott Sprague</origin>
+            <origin>Alethea Steingisser</origin>
+            <origin>Mark Thonhoff</origin>
+            <pubdate>20201001</pubdate>
+            <title>Ungulate Migrations of the Western United States</title>
+            <geoform>publication</geoform>
+            <onlink>https://doi.org/10.3133/sir20205101</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Moose in the Jackson herd make an elevational migration in the southern portion of the Greater Yellowstone Ecosystem. This small herd of approximately 500 animals winters primarily in the Buffalo Valley just east of Jackson Lake. During migration, animals travel an average one-way distance of 33 miles, with some animals migrating as far as 67 miles. In the spring, most moose migrate north into the Teton Wilderness or the southern extent of Yellowstone National Park. Summer ranges consist of a mix of conifers and riparian habitats along the upper watersheds that flow into the Snake River. Nearly all moose in this herd are migratory, with the herd sharing a common winter range then branching out in the spring to summer ranges to the north and west. Over the last decade or so, Jackson moose have experienced poor recruitment due to lingering effects of the 1988 fires, prolonged drought, and increased rates of predation by grizzly bears and wolves, although recruitment rates have been improving over the last five years or so. Despite the poor demographic performance, the migrations are relatively intact because most routes overlap public lands.
+
+These data provide the location of migration routes for Moose (Alces alces) in the Jackson herd in Wyoming. They were developed from Brownian bridge movement models using 94 migration sequences collected from a sample size of 33 animals comprising GPS locations collected every 2-8 hours.</abstract>
+      <purpose>Across the western U.S., many ungulate herds must migrate seasonally to access resources and avoid harsh winter conditions. Because these corridors traverse vast landscapes (i.e., up to 150 miles), they are increasingly threatened by roads, fencing, subdivisions and other development. Over the last decade, many new tracking studies have been conducted on migratory herds, and analytical methods have been developed that allow for population-level corridors and stopovers to be mapped and prioritized. In 2018, the U.S. Geological Survey assembled a Corridor Mapping Team to provide technical assistance to western states working to map bison, elk, moose, mule deer, and pronghorn corridors using existing GPS data. Based out of the Wyoming Cooperative Fish and Wildlife Research Unit, the team consists of federal scientists, university researchers, and biologists and analysts from participating state agencies. In its first year, the team has worked to develop a standardized analytical and computational methods and a workflow applicable to data sets typically collected by state agencies. In 2019, the team completed analyses necessary to map corridors, stopovers, and winter ranges in Arizona, Idaho, Nevada, Utah, and Wyoming. A total of 26 corridors, 16 migration routes, 25 stopovers, and 9 winter ranges, were mapped across these states and are included in this project. The Ungulate Migrations of the Western United States report and associated map archive provides the means for corridors to be taken into account by state and federal transportation officials, land and wildlife managers, planners, and other conservationists working to maintain big game corridors in the western states.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20050101</begdate>
+          <enddate>20100101</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-111.0083</westbc>
+        <eastbc>-109.7597</eastbc>
+        <northbc>44.3205</northbc>
+        <southbc>43.2007</southbc>
+      </bounding>
+      <descgeog>Jackson, WY</descgeog>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>migration (organisms)</themekey>
+        <themekey>migratory species</themekey>
+        <themekey>animal behavior</themekey>
+        <themekey>migration route</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5f8db62e82ce32418791d574</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>Jackson</placekey>
+        <placekey>Wyoming</placekey>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>Dataset authors will retain ownership of the data provided. The burden for determining fitness for use lies entirely with the user. For purposes of publication or dissemination, citations, or credit should be given to the authors/originators listed herein.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Doug McWhirter</cntper>
+          <cntorg>Wyoming Game and Fish Department</cntorg>
+        </cntperp>
+        <cntpos>Wildlife Management Coordinator</cntpos>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>420 N Cache Street</address>
+          <city>Jackson</city>
+          <state>Wyoming</state>
+          <postal>83001</postal>
+        </cntaddr>
+        <cntvoice>307-733-2321</cntvoice>
+        <cntemail>doug.mcwhirter@wyo.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>Alces alces</taxonkey>
+      </keywtax>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Tetrapoda</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Mammalia</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Subclass</taxonrn>
+                        <taxonrv>Theria</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Infraclass</taxonrn>
+                          <taxonrv>Eutheria</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Order</taxonrn>
+                            <taxonrv>Artiodactyla</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Cervidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Capreolinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Alces</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Alces alces</taxonrv>
+                                    <common>TSN: 180703</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>We checked to ensure values were in expected ranges (e.g. locations of corridors were as expected, and dates of GPS observations were consistent with the project time period).</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>To identify migration routes, we first extracted migration sequences for each individual-year. To identify spring and fall migration start and end dates for a given individual in a given year, we visually inspected the Net Squared Displacement (NSD) curve (Bunnefeld et al. 2011, Bastille-Rousseau et al. 2016) alongside digital maps of the animal’s movement trajectory (Merkle and others, 2017). The NSD represents the square of the straight-line distance between any GPS location of an animal’s movement trajectory and a point within the animal’s winter range. When an animal stays within a defined home range, the NSD varies relatively little over time as the animal travels. However, when an animal migrates away from its winter range, the NSD of each successive location increases until it settles in its summer range (Fig. 1). The days with clear breakpoints in the NSD curves represent the start and end dates for migration and were used to define migration sequences for spring and fall migration. Migration routes were mapped by joining successive GPS locations within each given migration sequence.</procdesc>
+        <procdate>20200518</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>650</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.5</stdparll>
+            <stdparll>45.5</stdparll>
+            <longcm>-96.0</longcm>
+            <latprjo>23.0</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.6096</absres>
+            <ordres>0.6096</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>North_American_Datum_1983</horizdn>
+        <ellips>GRS_1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Moose_WY_Jackson_Routes_Ver1_2019.shp Attribute Table</enttypl>
+        <enttypd>Table containing attribute information associated with the data set.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>mig</attrlabl>
+        <attrdef>Unique route ID</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Unique identifier for route merging animal ID, season, and year</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>firstdate</attrlabl>
+        <attrdef>Beginning date of migration</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Beginning date of migration</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>lastdate</attrlabl>
+        <attrdef>Ending date of migration</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Ending date of migration</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>id</attrlabl>
+        <attrdef>Animal ID</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Unique animal identification number</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>season</attrlabl>
+        <attrdef>Season of migration route</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>fa</edomv>
+            <edomvd>fall</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>sp</edomv>
+            <edomvd>spring</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>year</attrlabl>
+        <attrdef>Year of migration route</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2008.0</rdommin>
+            <rdommax>2009.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9O2YM6I</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None.</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20201109</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Doug McWhirter</cntper>
+          <cntorg>Wyoming Game and Fish Department</cntorg>
+        </cntperp>
+        <cntpos>Wildlife Management Coordinator</cntpos>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>420 N Cache Street</address>
+          <city>Jackson</city>
+          <state>Wyoming</state>
+          <postal>83001</postal>
+        </cntaddr>
+        <cntvoice>307-733-2321</cntvoice>
+        <cntemail>doug.mcwhirter@wyo.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
