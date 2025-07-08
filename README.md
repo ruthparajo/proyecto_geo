@@ -34,3 +34,4 @@ Datos:
 - `ndvi_mndwi`: Contiene los raster del NDVI y MNDWI.
 - `territorio_frames`: Contiene una imagen de los territorios de cada año estudiado.
 - `YELL_tracts`: El polígono de Yellowstone.
+- Para descargar los datos del NDVI anual, se puede entrar a este link: https://uccl0-my.sharepoint.com/:u:/g/personal/rparajof_estudiante_uc_cl/EVbojXFLKyBCm06rAJIhtTEB4eFPG4CxIhb_7yP7jR-uMA?e=aSLEJ7
